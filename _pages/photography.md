@@ -2,7 +2,7 @@
 layout: page
 permalink: /photography/
 title: photography
-description: Outside of my research, I've also been a hobbyist photographer for over a decade. Pick a category below to browse a selection of photos I've taken over the years.
+description: "Outside of my research, I've been a hobbyist photographer for over a decade. Pick a category below to browse a selection of my photos."
 nav: true
 nav_order: 6
 # ---------------------------------------------------------------------------
