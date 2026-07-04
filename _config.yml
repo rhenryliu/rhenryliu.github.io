@@ -334,7 +334,10 @@ display_categories: [] # categories shown at the top of the blog page (empty = h
 
 scholar:
   last_name: [Liu]
-  first_name: [R. Henry, R. H., Henry]
+  # "R. H." uses a non-breaking space (U+00A0): the bib writes this name as
+  # "R.~H.", and the LaTeX tie (~) renders as a non-breaking space, so a plain
+  # "R. H." here would not match. Keep both forms.
+  first_name: ["R. Henry", "R. H.", "R.\u00A0H.", "Henry", "Ruihan Henry"]
 
   style: apa
   locale: en

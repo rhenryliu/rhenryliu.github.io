@@ -9,6 +9,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<style>
+  /* Make my own name bold, on top of the theme's underline, in author lists. */
+  .publications ol.bibliography li .author > em {
+    font-weight: bold;
+  }
+</style>
+
 <!-- Bibsearch Feature -->
 
 <!-- {% include bib_search.liquid %} -->
