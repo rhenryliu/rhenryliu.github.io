@@ -32,8 +32,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a cosmologist and a fifth-year Ph.D. Candidate in the UC Berkeley Physics Department advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). I spend a lot of my time working on (and being confused by) aspects of baryon feedback in the Universe. In the process, I utilise a number of cosmological surveys, observables, simulations, and statistical methods. My work is supported by the PGS-D Fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
+Hi! I am a cosmologist and a fifth-year Ph.D. Candidate at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/), advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). I spend a lot of my time working on (and being confused by) aspects of baryon feedback in the Universe. In the process, I utilise a number of cosmological surveys, observables, simulations, and statistical methods. My work is supported by the PGS-D Fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
 
-I am a member of the Dark Energy Spectroscopic Instrument (DESI) collaboration, where I work on topics within the C3 working group.
+I am a member of the [Dark Energy Spectroscopic Instrument (DESI) Collaboration](https://www.desi.lbl.gov/), where I work on topics within the C3 working group.
 
 I grew up in beautiful [Coquitlam, British Columbia](https://en.wikipedia.org/wiki/Coquitlam) (on the outskirts of Vancouver). I completed my B.Sc. in Physics and Mathematics from the [University of British Columbia](https://www.ubc.ca/) before starting my graduate school journey in Berkeley.
