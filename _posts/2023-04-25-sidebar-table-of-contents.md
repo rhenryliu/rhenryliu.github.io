@@ -9,6 +9,7 @@ giscus_comments: true
 related_posts: false
 toc:
   sidebar: left
+published: false # template demo post — unpublished, kept for reference
 ---
 
 This post shows how to add a table of contents as a sidebar.

@@ -11,6 +11,7 @@ images:
   photoswipe: true
   spotlight: true
   venobox: true
+published: false # template demo post — unpublished, kept for reference
 ---
 
 The images in this post are all zoomable, arranged into different mini-galleries using different libraries.

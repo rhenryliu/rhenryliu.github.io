@@ -2,7 +2,7 @@
 layout: page
 permalink: /photography/
 title: photography
-description: A selection of photos.
+description: Outside of my research, I've also been a hobbist photographer for over a decade. See below for some selections of photos I've taken over the years!
 nav: true
 nav_order: 4
 ---

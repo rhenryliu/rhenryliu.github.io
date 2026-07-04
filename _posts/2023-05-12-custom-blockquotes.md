@@ -7,6 +7,7 @@ tags: formatting blockquotes
 categories: sample-posts
 giscus_comments: true
 related_posts: true
+published: false # template demo post — unpublished, kept for reference
 ---
 
 This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.

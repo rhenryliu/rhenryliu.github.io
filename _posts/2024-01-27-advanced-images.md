@@ -9,6 +9,7 @@ thumbnail: assets/img/9.jpg
 images:
   compare: true
   slider: true
+published: false # template demo post — unpublished, kept for reference
 ---
 
 This is an example post with advanced image components.
