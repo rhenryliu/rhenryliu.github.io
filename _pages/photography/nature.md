@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /photography/nature/
-title: nature
+title: Nature
 description: Touching grass.
 nav: false
 # ---------------------------------------------------------------------------

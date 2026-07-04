@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /photography/film/
-title: film
+title: Film
 description: Film is expensive! I better post these somewhere.
 nav: false
 # ---------------------------------------------------------------------------

@@ -23,7 +23,7 @@ categories:
     title: Film
     cover: assets/img/photography/film/film-9.jpg
   - slug: cats
-    title: cats
+    title: Cats
     cover: assets/img/photography/cats/cats-1.jpg
 ---
 

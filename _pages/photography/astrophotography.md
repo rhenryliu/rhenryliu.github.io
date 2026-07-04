@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /photography/astrophotography/
-title: astrophotography
+title: Astrophotography
 description: Staring at the sky.
 nav: false
 # ---------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /photography/cats/
-title: cats
+title: Cats
 description: In early 2026, I helped foster a litter of kittens. Here are some cute photos of them.
 nav: false
 # ---------------------------------------------------------------------------
