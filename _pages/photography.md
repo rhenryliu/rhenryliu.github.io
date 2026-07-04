@@ -2,7 +2,7 @@
 layout: page
 permalink: /photography/
 title: photography
-description: "Outside of my research, I've been a hobbyist photographer for over a decade. Pick a category below to browse a selection of my photos."
+description: "Outside of my research, I've also been a hobbyist photographer for over a decade. Pick a category below to browse a selection of my photos."
 nav: true
 nav_order: 6
 # ---------------------------------------------------------------------------
@@ -22,6 +22,9 @@ categories:
   - slug: film
     title: Film
     cover: assets/img/photography/film/film-9.jpg
+  - slug: cats
+    title: cats
+    cover: assets/img/photography/cats/cats-1.jpg
 ---
 
 {% include photo_grid.liquid mode="tiles" %}
