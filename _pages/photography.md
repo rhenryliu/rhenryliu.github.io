@@ -15,13 +15,13 @@ nav_order: 6
 categories:
   - slug: astrophotography
     title: Astrophotography
-    cover: assets/img/1.jpg
+    cover: assets/img/photography/astrophotography/DSC05562.jpg
   - slug: nature
     title: Nature
-    cover: assets/img/3.jpg
+    cover: assets/img/photography/nature/DSC09921.jpg
   - slug: film
     title: Film
-    cover: assets/img/5.jpg
+    cover: assets/img/photography/film/film-9.jpg
 ---
 
 {% include photo_grid.liquid mode="tiles" %}

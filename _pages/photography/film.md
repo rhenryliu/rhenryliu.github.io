@@ -2,7 +2,7 @@
 layout: page
 permalink: /photography/film/
 title: film
-description: Shots on 35mm and medium-format film.
+description: Film is expensive! I better post these somewhere.
 nav: false
 # ---------------------------------------------------------------------------
 # Photos are shown in the order listed below (top = first). `caption` is optional
@@ -11,12 +11,16 @@ nav: false
 #       assets/img/photography/film/ and replace the entries below.
 # ---------------------------------------------------------------------------
 photos:
-  - path: assets/img/5.jpg
-    caption: Placeholder — replace me
-  - path: assets/img/8.jpg
-  - path: assets/img/10.jpg
-    caption: Placeholder — replace me
-  - path: assets/img/11.jpg
+  - path: assets/img/photography/film/film-1.jpg
+  - path: assets/img/photography/film/film-2.jpg
+  - path: assets/img/photography/film/film-3.jpg
+  - path: assets/img/photography/film/film-4.jpg
+  - path: assets/img/photography/film/film-5.jpg
+  - path: assets/img/photography/film/film-6.jpg
+  - path: assets/img/photography/film/film-7.jpg
+  - path: assets/img/photography/film/film-8.jpg
+  - path: assets/img/photography/film/film-9.jpg
+    caption: '2025-07: Perimeter Institute for Theoretical Physics'
 ---
 
 <a href="{{ '/photography/' | relative_url }}">← All photography</a>
