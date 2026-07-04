@@ -4,7 +4,7 @@ permalink: /photography/
 title: photography
 description: Outside of my research, I've also been a hobbyist photographer for over a decade. Pick a category below to browse a selection of photos I've taken over the years.
 nav: true
-nav_order: 4
+nav_order: 6
 # ---------------------------------------------------------------------------
 # Category tiles shown on this landing page. Each links to /photography/<slug>/.
 # `cover` is the single photo used as that category's tile background.
