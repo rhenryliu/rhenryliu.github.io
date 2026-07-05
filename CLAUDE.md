@@ -39,14 +39,33 @@ here.
 - `assets/img/` — images (see Images note below).
 - `assets/json/resume.json` — drives the CV page.
 
+## Customization boundaries — overrides are allowed, but tiered by risk
+
+Overriding a gem-owned file is a supported al-folio mechanism: a local file at the
+same path shadows (fully replaces) the gem's copy. The upgrade-reconciliation cost
+scales with what's touched, so follow these tiers.
+
+- **Tier 1 — free, no override.** `_config.yml` settings, feature flags, and
+  content. Do these without asking; zero upgrade cost.
+- **Tier 2 — thin style overrides (allowed).** Restyling via local `_sass/`
+  token/rule overrides (e.g. redefining `--global-theme-color`) or the site CSS
+  entry. Keep them minimal. After any dependency bump, run
+  `bundle exec al-folio upgrade overrides audit`.
+- **Tier 3 — structural overrides (plan first).** Shadowing a whole
+  `_layouts/*.liquid` or `_includes/*` file. STOP, propose a short plan, and wait
+  for my approval — these freeze an entire file and are what breaks on upgrade.
+  Track with `overrides audit`; the result is recorded in `.al-folio-overrides.yml`
+  (commit it).
+- **Tier 4 — forking a plugin gem (ask).** Only for reusable behavior that belongs
+  in the gem, never a one-site tweak. Requires my explicit sign-off.
+
+Note: a local `_sass/` or `_layouts/` file may trip the `style-contract` CI check
+if that workflow is enabled. It is non-deploy and cosmetic, but that's the cause.
+
 ## Do NOT touch
 
 - The `gh-pages` branch. GitHub Actions builds and force-pushes it; editing it
   breaks deploys.
-- Any `_layouts/`, `_includes/`, or `_sass/` files — these are gem-owned. If a
-  layout/style change seems necessary, STOP and ask me first: a local override
-  is tracked in `.al-folio-overrides.yml`, has upgrade consequences, and is rarely
-  what I actually want.
 - `*.bib` entries and image binaries — do not reformat, rewrite, or delete without
   asking.
 
