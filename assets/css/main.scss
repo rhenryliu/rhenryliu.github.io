@@ -50,9 +50,19 @@
  * ------------------------------------------------------------------------- */
 :root {
   --global-bg-color: #f5f8fb; /* faint off-white at UBC hue 211°; cards stay white to pop */
+  --global-theme-color: #0a718f; /* saturated teal (same ~193° hue/~0.87 sat as #0c88ac) darkened for contrast; ~5.2:1 on off-white / ~5.6:1 on white cards */
 }
 
 html[data-theme="dark"] {
   --global-bg-color: #152332; /* UBC-hue dark blue, hue 211° / ~40% sat (was #1c1c1d) */
   --global-card-bg-color: #1d3044; /* same hue, a step lighter than the page */
+  --global-theme-color: #5ec0e4; /* mid cyan; 7.7:1 on page / 6.5:1 on cards — split between #4fb8dd and #6cc8ea */
+}
+
+/* Match a bare <hr> (used to separate the intro blurb from the body on the
+   publications and teaching pages) to the faint divider color the theme uses
+   for its category/year separators, instead of the browser-default line. */
+hr {
+  border: 0;
+  border-top: 1px solid var(--global-divider-color);
 }

@@ -5,6 +5,7 @@
 # The obfuscated "rh_liu [at] berkeley [dot] edu" lives in `contact_note` in _config.yml instead.
 scholar_userid: pQPk2isAAAAJ # Google Scholar ID
 orcid_id: 0000-0001-6079-5683 # ORCID iD
+inspirehep_id: 2880079 # INSPIRE-HEP ID
 github_username: rhenryliu # GitHub username
 linkedin_username: rh-liu # LinkedIn vanity name -> linkedin.com/in/<this>
 cv_pdf: /assets/pdf/cv_HenryLiu.pdf # path to your CV PDF file

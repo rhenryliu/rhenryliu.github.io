@@ -12,9 +12,10 @@ profile:
   image: DSC05248.jpg
   image_circular: true # crops the image to make it circular
   more_info: |
-    <div style="display:flex; justify-content:center; gap:0.7rem; font-size:1.2rem; margin-top:0.5rem;">
+    <div style="display:flex; justify-content:center; gap:0.7rem; font-size:1.4rem; margin-top:0.5rem;">
       <a href="https://scholar.google.com/citations?user=pQPk2isAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       <a href="https://orcid.org/0000-0001-6079-5683" title="ORCID"><i class="ai ai-orcid"></i></a>
+      <a href="https://inspirehep.net/authors/2880079" title="INSPIRE-HEP"><i class="ai ai-inspire"></i></a>
       <a href="https://github.com/rhenryliu" title="GitHub"><i class="fa-brands fa-github"></i></a>
       <a href="https://www.linkedin.com/in/rh-liu" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
       <a href="/assets/pdf/cv_HenryLiu.pdf" title="CV"><i class="ai ai-cv"></i></a>
