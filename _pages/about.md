@@ -35,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a cosmologist and a fifth-year PhD candidate at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/), advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). My work is generously supported by the PGS-D Fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
+Hi! I am a cosmologist and a fifth-year PhD candidate at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/), advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). My work is generously supported by the PGS-D Scholarship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
 
 I spend a lot of my time working on (and being confused by) baryon feedback in the Universe. In the process, I use a range of cosmological surveys, observables, simulations, and statistical methods. I work at the intersection of large-scale structure and the cosmic microwave background, with a particular interest in the Sunyaev-Zel'dovich effects and weak lensing. I also develop and utilise machine learning and statistical methods in cosmology.
 
