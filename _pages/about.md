@@ -37,8 +37,11 @@ latest_posts:
 
 Hi! I am a cosmologist and a fifth-year PhD candidate at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/), advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). My work is generously supported by the PGS-D Fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
 
-I spend a lot of my time working on (and being confused by) baryon feedback in the Universe. In the process, I use a range of cosmological surveys, observables, simulations, and statistical methods.
+I spend a lot of my time working on (and being confused by) baryon feedback in the Universe. In the process, I use a range of cosmological surveys, observables, simulations, and statistical methods. I work at the intersection of large-scale structure and the cosmic microwave background, with a particular interest in the Sunyaev-Zel'dovich effects and weak lensing. I also develop and utilise machine learning and statistical methods in cosmology.
 
 I am a member of the [Dark Energy Spectroscopic Instrument (DESI) Collaboration](https://www.desi.lbl.gov/), where I work on topics within the C3 working group.
 
-I grew up in beautiful [Coquitlam, British Columbia](https://en.wikipedia.org/wiki/Coquitlam), on the outskirts of Vancouver. I completed my B.Sc. in Physics and Mathematics from the [University of British Columbia](https://www.ubc.ca/) before starting graduate school in Berkeley. Outside of science, I'm an avid (but unexceptional) runner, hiker, and skier. I also take a lot of photos, which you can see on my [photography page](/photography/).
+I grew up in beautiful [Coquitlam, British Columbia](https://en.wikipedia.org/wiki/Coquitlam), on the outskirts of Vancouver. Before starting graduate school at Berkeley, I received my B.Sc. in Physics and Mathematics from the [University of British Columbia](https://www.ubc.ca/). 
+Outside of science, I'm an avid (but unexceptional) runner, hiker, and skier. I like to read and am always looking for book recommendations (especially non-fiction and sci-fi). I also take a lot of photos, which you can see on my [photography page](/photography/).
+
+I will be entering the postdoc job market in Fall 2026. If you would like to talk more about my research, potential collaborations or opportunities, please feel free to shoot me an email!

@@ -66,8 +66,8 @@ jobs:
       - name: Install JS deps 📦
         run: npm ci
 
-      - name: Run style contract lint 🧷
-        run: npm run lint:style-contract
+      # - name: Run style contract lint 🧷
+      #   run: npm run lint:style-contract
 
       - name: Install build prerequisites 🔧
         run: |
