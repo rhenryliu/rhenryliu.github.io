@@ -1,0 +1,55 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* -------------------------------------------------------------------------
+ * SITE-LOCAL THEME OVERRIDE (Tier 2)
+ *
+ * This file shadows al_folio_core-1.0.11/assets/css/main.scss. The block below
+ * is the ONLY local addition — everything above is a verbatim copy of the gem
+ * entry. When the gem is bumped, re-diff against the new gem main.scss and
+ * re-copy the @use list, keeping this block at the end.
+ *
+ * Purpose: nudge the page background to a dark desaturated blue (dark mode)
+ * and a faint cool off-white (light mode) to differentiate the site from
+ * stock al-folio. Card colors are moved with the page so cards don't float as
+ * neutral rectangles. Accent / text / code / footer colors are untouched.
+ * ------------------------------------------------------------------------- */
+:root {
+  --global-bg-color: #f5f7fb; /* faint cool off-white; cards stay white to pop */
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #181b2b; /* dark desaturated navy (was #1c1c1d) */
+  --global-card-bg-color: #22263a; /* same hue, a step lighter than the page */
+}
