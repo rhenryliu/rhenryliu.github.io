@@ -42,14 +42,17 @@
  *
  * Purpose: nudge the page background to a dark desaturated blue (dark mode)
  * and a faint cool off-white (light mode) to differentiate the site from
- * stock al-folio. Card colors are moved with the page so cards don't float as
- * neutral rectangles. Accent / text / code / footer colors are untouched.
+ * stock al-folio. The dark blue is derived from UBC Blue (#002145, hue 211°)
+ * at ~40% saturation so it subtly nods to the alma mater without reading as a
+ * branded navy. The light off-white shares the same 211° hue. Card colors are
+ * moved with the page so cards don't float as neutral rectangles. Accent /
+ * text / code / footer colors are untouched.
  * ------------------------------------------------------------------------- */
 :root {
-  --global-bg-color: #f5f7fb; /* faint cool off-white; cards stay white to pop */
+  --global-bg-color: #f5f8fb; /* faint off-white at UBC hue 211°; cards stay white to pop */
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #181b2b; /* dark desaturated navy (was #1c1c1d) */
-  --global-card-bg-color: #22263a; /* same hue, a step lighter than the page */
+  --global-bg-color: #152332; /* UBC-hue dark blue, hue 211° / ~40% sat (was #1c1c1d) */
+  --global-card-bg-color: #1d3044; /* same hue, a step lighter than the page */
 }
