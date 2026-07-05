@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate · <a href="https://physics.berkeley.edu/">Department of Physics</a>, UC Berkeley
+subtitle: >
+  <span style="display:block; font-family:'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;
+    font-size:1.7rem; font-weight:400; line-height:1.2; color:var(--global-text-color); margin-bottom:0.2rem;">刘瑞涵</span>
+  PhD Candidate · <a href="https://physics.berkeley.edu/">Department of Physics</a>, UC Berkeley
 
 profile:
   align: right
@@ -32,7 +35,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a cosmologist and a fifth-year PhD candidate at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/), advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). I spend a lot of my time working on (and being confused by) baryon feedback in the Universe. In the process, I use a range of cosmological surveys, observables, simulations, and statistical methods. My work is supported by the PGS-D Fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
+Hi! I am a cosmologist and a fifth-year PhD candidate at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/), advised by [Uroš Seljak](https://physics.berkeley.edu/people/faculty/uros-seljak) and [Simone Ferraro](https://sferraro.lbl.gov/). My work is generously supported by the PGS-D Fellowship from the Natural Sciences and Engineering Research Council of Canada (NSERC).
+
+I spend a lot of my time working on (and being confused by) baryon feedback in the Universe. In the process, I use a range of cosmological surveys, observables, simulations, and statistical methods.
 
 I am a member of the [Dark Energy Spectroscopic Instrument (DESI) Collaboration](https://www.desi.lbl.gov/), where I work on topics within the C3 working group.
 
