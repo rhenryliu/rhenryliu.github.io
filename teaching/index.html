@@ -75,7 +75,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "My publications grouped by first-author and other contributions. You may find a more up-to-date list on INSPIRE or my Google Scholar profile.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -96,7 +96,7 @@ ninja.data = [{
           },
         },{id: "nav-photography",
           title: "photography",
-          description: "Outside of my research, I've also been a hobbyist photographer for over a decade. Pick a category below to browse a selection of my photos.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photography/";
@@ -175,6 +175,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0001-6079-5683", "_blank");
+        },
+      },{
+        id: 'social-inspire',
+        title: 'Inspire HEP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://inspirehep.net/authors/2880079", "_blank");
         },
       },{
         id: 'social-github',
