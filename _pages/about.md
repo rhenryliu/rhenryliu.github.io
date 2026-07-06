@@ -43,6 +43,6 @@ I spend a lot of my time working on (and being confused by) baryon feedback in t
 I am a member of the [Dark Energy Spectroscopic Instrument (DESI) Collaboration](https://www.desi.lbl.gov/), where I work on topics within the C3 working group.
 
 I grew up in beautiful [Coquitlam, British Columbia](https://en.wikipedia.org/wiki/Coquitlam), on the outskirts of Vancouver. Before starting graduate school at Berkeley, I received my B.Sc. in Physics and Mathematics from the [University of British Columbia](https://www.ubc.ca/). 
-Outside of science, I'm an avid (but unexceptional) runner, hiker, and skier. I like to read and am always looking for book recommendations (especially non-fiction and sci-fi). I also take a lot of photos, which you can see on my [photography page](/photography/).
+Outside of science, I'm an avid (but unexceptional) runner, hiker, and skier. I like to read and am always looking for book recommendations, especially non-fiction and sci-fi. I also take a lot of photos, which you can see on my [photography page](/photography/).
 
 I will be entering the postdoc job market in Fall 2026. If you would like to talk more about my research, potential collaborations or opportunities, please feel free to shoot me an email!

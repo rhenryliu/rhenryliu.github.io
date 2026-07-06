@@ -27,7 +27,7 @@ categories:
   #   cover: assets/img/photography/cats/cats-1.jpg
 ---
 
-Outside of my research, I've also been a hobbyist photographer for over a decade. Pick a category below to browse a selection of my photos.
+Outside of my research, I've also been a hobbyist photographer for over a decade. Pick a category below to browse some of the highlights.
 
 <hr>
 
