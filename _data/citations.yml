@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-10'
 papers:
   pQPk2isAAAAJ:2osOgNQ5qMEC:
-    citations: 6
+    citations: 7
     title: "Fast baryonic field painting for Sunyaev-Zel\u2019dovich analyses: Transfer function vs hybrid effective field theory"
     year: '2026'
   pQPk2isAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 11
     title: "Measurements of the thermal Sunyaev-Zel\u2019dovich effect with ACT and DESI luminous red galaxies"
     year: '2025'
   pQPk2isAAAAJ:d1gkVwhDpl0C:
-    citations: 85
+    citations: 95
     title: "Evidence for large baryonic feedback at low and intermediate redshifts from kinematic Sunyaev-Zel\u2019dovich observations with ACT and DESI photometric galaxies"
     year: '2025'
   pQPk2isAAAAJ:qjMakFHDy7sC:
@@ -18,10 +18,10 @@ papers:
     title: "Detection of the pairwise kinematic Sunyaev-Zel\u2019dovich effect and pairwise velocity with DESI DR1 galaxies and ACT DR6 and Planck CMB data"
     year: '2026'
   pQPk2isAAAAJ:u-x6o8ySG0sC:
-    citations: 31
+    citations: 33
     title: 'Coupling parsec and gigaparsec scales: Primordial non-Gaussianity with multitracer intensity mapping'
     year: '2021'
   pQPk2isAAAAJ:u5HHmVD_uO8C:
-    citations: 8
+    citations: 7
     title: A machine-learning approach for identifying the counterparts of submillimetre galaxies and applications to the GOODS-North field
     year: '2019'
