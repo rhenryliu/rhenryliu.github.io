@@ -11,6 +11,12 @@ nav: false
 #       assets/img/photography/astrophotography/ and replace the entries below.
 # ---------------------------------------------------------------------------
 photos:
+  - path: assets/img/photography/astrophotography/DSC07363.jpg
+    caption: '2026-08-12: Total Solar Eclipse through the clouds in A Coruña, Spain'
+  - path: assets/img/photography/astrophotography/DSC07355.jpg
+    caption: '2026-08-12: Baily's Beads during the eclipse in A Coruña, Spain'
+  - path: assets/img/photography/astrophotography/DSC07300.jpg
+    caption: '2026-08-12: Partial Eclipse through the clouds in A Coruña, Spain'
   - path: assets/img/photography/astrophotography/DSC02959.jpg
     caption: '2025-06: Starlink trails in the sky, Clear Lake, California'
   - path: assets/img/photography/astrophotography/DSC02554.jpg
