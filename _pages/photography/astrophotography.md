@@ -12,29 +12,29 @@ nav: false
 # ---------------------------------------------------------------------------
 photos:
   - path: assets/img/photography/astrophotography/DSC07363.jpg
-    caption: '2026-08-12: Total Solar Eclipse through the clouds in A Coruña, Spain'
+    caption: "2026-08-12: Total Solar Eclipse through the clouds in A Coruña, Spain"
   - path: assets/img/photography/astrophotography/DSC07355.jpg
-    caption: '2026-08-12: Baily's Beads during the eclipse in A Coruña, Spain'
+    caption: "2026-08-12: Baily's Beads during the eclipse in A Coruña, Spain"
   - path: assets/img/photography/astrophotography/DSC07300.jpg
-    caption: '2026-08-12: Partial Eclipse through the clouds in A Coruña, Spain'
+    caption: "2026-08-12: Partial Eclipse through the clouds in A Coruña, Spain"
   - path: assets/img/photography/astrophotography/DSC02959.jpg
-    caption: '2025-06: Starlink trails in the sky, Clear Lake, California'
+    caption: "2025-06: Starlink trails in the sky, Clear Lake, California"
   - path: assets/img/photography/astrophotography/DSC02554.jpg
-    caption: '2024-10: Comet Tsuchinshan–ATLAS'
+    caption: "2024-10: Comet Tsuchinshan–ATLAS"
   - path: assets/img/photography/astrophotography/DSC02709.jpg
-    caption: '2024-10: Comet Tsuchinshan–ATLAS over the San Francisco Bay Area'
+    caption: "2024-10: Comet Tsuchinshan–ATLAS over the San Francisco Bay Area"
   - path: assets/img/photography/astrophotography/DSC05562.jpg
-    caption: '2023-08: Perseid meteor showers at Pinnacles National Park'
+    caption: "2023-08: Perseid meteor showers at Pinnacles National Park"
   - path: assets/img/photography/astrophotography/DSC05162.jpg
-    caption: '2023-08: Perseid meteor showers at Pinnacles National Park'
+    caption: "2023-08: Perseid meteor showers at Pinnacles National Park"
   - path: assets/img/photography/astrophotography/DSC08481.jpg
-    caption: '2023-12: Rainbow at night at Hawaii Volcanoes National park'
+    caption: "2023-12: Rainbow at night at Hawaii Volcanoes National park"
   - path: assets/img/photography/astrophotography/DSC04225.jpg
-    caption: '2023-07: Overlooking Yosemite Valley, Yosemite National park'
+    caption: "2023-07: Overlooking Yosemite Valley, Yosemite National park"
   - path: assets/img/photography/astrophotography/DSC01024.jpg
-    caption: '2023-02: Milky Way over Dunes at Death Valley National park'
+    caption: "2023-02: Milky Way over Dunes at Death Valley National park"
   - path: assets/img/photography/astrophotography/DSC00566.jpg
-    caption: '2020-07: Comet NEOWISE over the North Shore Mountains, British Columbia'
+    caption: "2020-07: Comet NEOWISE over the North Shore Mountains, British Columbia"
 ---
 
 <a href="{{ '/photography/' | relative_url }}">← All photography</a>
