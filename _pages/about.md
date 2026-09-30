@@ -22,7 +22,7 @@ profile:
     </div>
     <div style="text-align:center; font-size:0.85rem; margin-top:0.35rem;">rh_liu [at] berkeley [dot] edu</div>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
